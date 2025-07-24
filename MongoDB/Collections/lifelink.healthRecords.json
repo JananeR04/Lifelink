@@ -1,0 +1,299 @@
+[{
+  "_id": {
+    "$oid": "6880a1e01eab7ea525a63228"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123abc"
+  },
+  "weight": 60,
+  "bp": "120/80",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:48:32.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:48:32.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a63229"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123abc"
+  },
+  "weight": 60,
+  "bp": "120/80",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a6322a"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123abd"
+  },
+  "weight": 58,
+  "bp": "110/70",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-08-10T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a6322b"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123abe"
+  },
+  "weight": 72,
+  "bp": "130/85",
+  "eligible": false,
+  "lastDonationDate": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a6322c"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123abf"
+  },
+  "weight": 65,
+  "bp": "115/75",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a6322d"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac0"
+  },
+  "weight": 68,
+  "bp": "118/78",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a6322e"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac1"
+  },
+  "weight": 59,
+  "bp": "122/80",
+  "eligible": false,
+  "lastDonationDate": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-07-10T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a6322f"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac2"
+  },
+  "weight": 75,
+  "bp": "125/85",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a63230"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac3"
+  },
+  "weight": 55,
+  "bp": "115/70",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-08-25T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a63231"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac4"
+  },
+  "weight": 62,
+  "bp": "117/78",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a63232"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac5"
+  },
+  "weight": 64,
+  "bp": "121/81",
+  "eligible": false,
+  "lastDonationDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a63233"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac6"
+  },
+  "weight": 70,
+  "bp": "124/82",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-07-10T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-09-10T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a2131eab7ea525a63234"
+  },
+  "userId": {
+    "$oid": "64ec2f8b5a1f4d5e8b123ac7"
+  },
+  "weight": 66,
+  "bp": "119/79",
+  "eligible": true,
+  "lastDonationDate": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "nextEligibleDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:49:23.239Z"
+  }
+}]
