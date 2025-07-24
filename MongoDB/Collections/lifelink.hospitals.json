@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "68809f6456f7626cff04711e"
+  },
+  "name": "Apollo Hospital",
+  "address": {
+    "city": "Chennai",
+    "zip": "600006"
+  },
+  "contactEmail": "apollo@hospital.com",
+  "phone": "044-12345678",
+  "createdAt": {
+    "$date": "2025-07-23T08:50:17.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T08:50:17.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c4d"
+  },
+  "name": "Apollo Hospital",
+  "address": {
+    "city": "Chennai",
+    "zip": "600006"
+  },
+  "contactEmail": "apollo@hospital.com",
+  "phone": "044-12345678",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c4e"
+  },
+  "name": "Fortis Malar Hospital",
+  "address": {
+    "city": "Chennai",
+    "zip": "600041"
+  },
+  "contactEmail": "fortis@hospital.com",
+  "phone": "044-87654321",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c4f"
+  },
+  "name": "SRM Medical Centre",
+  "address": {
+    "city": "Kattankulathur",
+    "zip": "603203"
+  },
+  "contactEmail": "srm@hospital.com",
+  "phone": "044-22223333",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c50"
+  },
+  "name": "MIOT International",
+  "address": {
+    "city": "Chennai",
+    "zip": "600089"
+  },
+  "contactEmail": "miot@hospital.com",
+  "phone": "044-66554433",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c51"
+  },
+  "name": "Kauvery Hospital",
+  "address": {
+    "city": "Trichy",
+    "zip": "620018"
+  },
+  "contactEmail": "kauvery@hospital.com",
+  "phone": "0431-4077777",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c52"
+  },
+  "name": "PSG Hospitals",
+  "address": {
+    "city": "Coimbatore",
+    "zip": "641004"
+  },
+  "contactEmail": "psg@hospital.com",
+  "phone": "0422-4345848",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c53"
+  },
+  "name": "Meenakshi Mission Hospital",
+  "address": {
+    "city": "Madurai",
+    "zip": "625107"
+  },
+  "contactEmail": "mmhri@hospital.com",
+  "phone": "0452-2588741",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c54"
+  },
+  "name": "CMC Vellore",
+  "address": {
+    "city": "Vellore",
+    "zip": "632004"
+  },
+  "contactEmail": "cmc@hospital.com",
+  "phone": "0416-2281000",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c55"
+  },
+  "name": "Global Hospitals",
+  "address": {
+    "city": "Chennai",
+    "zip": "600100"
+  },
+  "contactEmail": "global@hospital.com",
+  "phone": "044-44777000",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c56"
+  },
+  "name": "Rela Institute",
+  "address": {
+    "city": "Chennai",
+    "zip": "600073"
+  },
+  "contactEmail": "rela@hospital.com",
+  "phone": "044-66667888",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c57"
+  },
+  "name": "Govt. General Hospital",
+  "address": {
+    "city": "Chennai",
+    "zip": "600003"
+  },
+  "contactEmail": "gg@hospital.com",
+  "phone": "044-25305000",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880a53b12bd246834193c58"
+  },
+  "name": "Stanley Medical College",
+  "address": {
+    "city": "Chennai",
+    "zip": "600001"
+  },
+  "contactEmail": "stanley@hospital.com",
+  "phone": "044-25281347",
+  "createdAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T09:02:51.616Z"
+  }
+}]
